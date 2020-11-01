@@ -1,0 +1,32 @@
+.homepic{
+
+	margin: 0;
+	height: 683px;
+	width: 100%;
+}
+
+.nameofshop{
+
+	top: 50%;
+	position: absolute;
+	margin-left: 460px;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	z-index: 2;
+	font-family: sans-serif;
+}
+
+.nameofshop h1{
+
+	font-size: 50px;
+	color: #ffffff;
+	text-align: center;
+}
+.nameofshop p{
+
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+}
+

@@ -1,0 +1,21 @@
+.toast{
+
+	position: fixed;
+	left: 0;
+	right: 0;
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 0.2s,top 0.2s,visibility0.2s;
+}
+.toast--visible{
+
+	opacity: 1;
+	visibility: visible;
+}
+.toast--success{
+
+	color: green;
+}
