@@ -1,14 +1,34 @@
-# This is a Simple Shoe Shop Management Project made by Suraj Gavali(MIS-111803174) and Yash Manjulkar(MIS-111803176)
+**Project Name : Shoe Shop Management for Shop Owners**
 
-* Technologies Used
-1. HTML
-2. CSS
-3. PHP
-4. MYSQL
-5. JAVASCRIPT 
 
-**You can run this project using XAMPP**
-**Import the shop_managemnt.sql file in your phpmyadmin database named shop_management**
+**Hosted on https://github.com/yashmanjulkar/Shop_Management**
 
-[https://github.com/yashmanjulkar/Shop_Management]
 
+**Members** 
+
+ - Suraj Gavali - 111803174  
+ - Yash Manjulkar - 111803176
+ 
+ __This is Database Management System Course Project__
+ 
+ 
+**Tech Stack Used**
+ 
+ - HTML/ CSS/ JS for Frontend
+ - PHP for backend
+ - MySQL database
+ 
+
+**Features**
+
+  - Provide stastic analysis to Owner
+  - For Owner provide analysis of Sales and Stocks
+  
+
+**ER Diagram**
+
+**Installation Guide :**
+  1. Download the zip file and extract it.
+  2. Copy and paste it in C://xampp/htdocs
+  3. Import database file in "shop_management" databse in xampp 
+  4. Open chrome type "localhost/Shop_Management" .
